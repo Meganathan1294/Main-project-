@@ -1,0 +1,1 @@
+This project provides a data-driven deep dive into the 2024 fragrance e-commerce market. By analyzing 2,000 perfume listings from eBay, the study uncovers critical patterns in pricing, brand dominance, and consumer behavior across Men's and Women's categories.  
